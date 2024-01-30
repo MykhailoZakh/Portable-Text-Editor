@@ -28,7 +28,7 @@ In this section I provided screenshots of web application
 In this section I added links to the Live Application  and to the GitHub repositories with the original  and modified codebase.
 
 Live App:
-    
+    https://portable-text-editor.onrender.com
 
 Original GitHub Code Repository:
     https://github.com/coding-boot-camp/cautious-meme
