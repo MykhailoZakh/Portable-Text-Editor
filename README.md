@@ -17,9 +17,9 @@ In this project I wanted to modifie existing code to add some functionalities li
 In this section I provided screenshots of web application
 
 ![alt text](assets/images/screenshot1.png "First Screenshot")
-![alt text](assets/images/screenshot2.jpg "Second Screenshot")
-![alt text](assets/images/screenshot3.jpg "Third Screenshot")
-![alt text](assets/images/screenshot4.jpg "Fourth Screenshot")
+![alt text](assets/images/screenshot2.png "Second Screenshot")
+![alt text](assets/images/screenshot3.png "Third Screenshot")
+![alt text](assets/images/screenshot4.png "Fourth Screenshot")
 
 
 
